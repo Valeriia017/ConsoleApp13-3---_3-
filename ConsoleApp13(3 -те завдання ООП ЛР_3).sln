@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp13(3 -те завдання ООП ЛР_3)", "ConsoleApp13(3 -те завдання ООП ЛР_3)\ConsoleApp13(3 -те завдання ООП ЛР_3).csproj", "{20373EF9-3911-47BB-9487-1A73C5AD7E49}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20373EF9-3911-47BB-9487-1A73C5AD7E49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20373EF9-3911-47BB-9487-1A73C5AD7E49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20373EF9-3911-47BB-9487-1A73C5AD7E49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20373EF9-3911-47BB-9487-1A73C5AD7E49}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90CAA4B0-92E1-47B7-901D-9BEDAAA50A17}
+	EndGlobalSection
+EndGlobal
